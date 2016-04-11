@@ -60,7 +60,18 @@ Une tentative collaborative de répondre à toutes les questions sur les différ
 - Quels sont les avantages et points positifs que vous appréciez dans votre profession ?
 - Quelles sont les difficultés, les inconvénients, les contraintes ?
 - Comment se situe votre profession sur le marché de l’emploi ?
-- 
+- Pouvez vous me décrire votre journée de travail?
+- Quelles sont vos principales activités?
+- Quelles sont les compétences requises pour ce métier?
+- Quelles sont les qualités personnelles nécessaires?
+- Quels sont les avantages, les contraintes et le rythme de travail de ce métier?
+- Pouvez vous m'indiquer le salaire perçu pour ce type d'emploi en début et en fin de carrière?
+- Comment êtes vous parvenu à ce travail?
+- Quel est le niveau de formation nécessaire pour exercer cette profession?
+- A votre avis quel est le meilleur parcours de formation pour exercer votre profession? 
+- Quels sont vos outils de travail? (les machines, outils, logiciels, outils de communication)
+- Votre métier a t'il changé ces dernières années?
+- Comment pensez vous qu'il va évoluer dans les années à venir?
 
 -  http://mariejulien.com/post/2011/12/11/Une-interview-pour-toi,-l-%C3%A9tudiant-en-com/graphisme-dont-le-prof-n-a-aucune-imagination (à compiler)
 
