@@ -79,6 +79,31 @@ Une tentative collaborative de répondre à toutes les questions sur les différ
 -  Pensez vous qu’il soit nécessaire d’avoir un diplôme et/ou un expérience professionnelle pour accéder à ce poste ?
 -  Quelles sont les contraintes majeures de cette activité ?
 -  Quel est l’état du marché ?
+-  Bonjour, pouvez-vous vous présenter ? 
+-  Pouvez-vous décrire votre métier ? 
+-  Quel est votre parcours professionnel ? 
+-  Quelle formation est nécessaire pour accéder à ce métier ? 
+-  Pouvez-vous détailler les activités, tâches et responsabilités de votre métier ? 
+-  Pouvez-vous décrire l’environnement de travail type votre métier ? 
+-  Quelles sont vos horaires de travail ? Le métier comporte-t-il une part de télétravail ? 
+-  Pouvez-vous me désire une journée-type ? 
+-  Arrivez-vous à concilier vie professionnelle et vie personnelle ? 
+-  Temps libres, RTT... Le travail reste-t-il au bureau ou le rapportez-vous à la maison ? 
+-  Le métier comporte-t-il une part de travail en équipe ? 
+-  Quel est le matériel et quels sont les logiciels nécessaires ?
+-  Détailler l’accessibilité à ces outils, le matériel est-il fourni par l’entreprise ? 
+-  En termes d’accès au métier, que pouvez-vous me dire des pré-requis ? 
+-  Quels types de contrats sont proposés majoritairement ? 
+-  Quelles sont les compétences techniques et opérationnelles requises ? 
+-  Quelle expériences est demandés ? 
+-  Quelle est la rémunération à envisager ? 
+-  Que pouvez-vous me dire des évolutions possibles en terme de carrière ? 
+-  Évolution possible ou non ? Dans quels délais ? Sous quelles conditions ? Vers quels types de postes / responsabilités. 
+-  Quelles sont les contraintes liées au métier ? 
+-  Quels sont les plus grandes satisfactions que vous ayez eues professionnellement ? 
+-  Enfin, avez-vous quelques conseils à me donner ? 
+-  Connaissez-vous d’autres professionnels susceptibles de répondre à mes questions ? 
+
 
 -  http://mariejulien.com/post/2011/12/11/Une-interview-pour-toi,-l-%C3%A9tudiant-en-com/graphisme-dont-le-prof-n-a-aucune-imagination (à compiler)
 
