@@ -72,6 +72,13 @@ Une tentative collaborative de répondre à toutes les questions sur les différ
 - Quels sont vos outils de travail? (les machines, outils, logiciels, outils de communication)
 - Votre métier a t'il changé ces dernières années?
 - Comment pensez vous qu'il va évoluer dans les années à venir?
+-  Pouvez-vous me décrire ce que vous pensez du métier de Webmestre ?
+-  Quels sont les savoirs faires et les connaissances utiles pour un métier du Web ?
+-  Quelles sont les principales tâches ?
+-  Quelles sont, selon vous, les aptitudes personnelles les plus importantes ?
+-  Pensez vous qu’il soit nécessaire d’avoir un diplôme et/ou un expérience professionnelle pour accéder à ce poste ?
+-  Quelles sont les contraintes majeures de cette activité ?
+-  Quel est l’état du marché ?
 
 -  http://mariejulien.com/post/2011/12/11/Une-interview-pour-toi,-l-%C3%A9tudiant-en-com/graphisme-dont-le-prof-n-a-aucune-imagination (à compiler)
 
